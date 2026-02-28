@@ -2,7 +2,7 @@ name: Deploy GitHub Pages (main + dev paths)
 
 on:
   push:
-    branches: [main, dev]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
