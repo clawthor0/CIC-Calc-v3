@@ -11,4 +11,4 @@ Replica CIC Calc deployment.
 ![Commission](./screenshots/commission-v5.png)
 
 ## Update Rule
-Every website update must include a visible footer version bump. See [CONTRIBUTING.md](./CONTRIBUTING.md).
+Every website update must include a visible footer version bump. See [CONTRIBUTING.md](./CONTRIBUTING.md). 
